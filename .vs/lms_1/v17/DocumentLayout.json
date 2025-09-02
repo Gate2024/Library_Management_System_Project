@@ -3,35 +3,43 @@
   "WorkspaceRootPath": "D:\\lms_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|d:\\lms_1\\lms_1\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|solutionrelative:lms_1\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|D:\\lms_1\\lms_1\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|solutionrelative:lms_1\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|d:\\lms_1\\lms_1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|D:\\lms_1\\lms_1\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|solutionrelative:lms_1\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|D:\\lms_1\\lms_1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|solutionrelative:lms_1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|D:\\lms_1\\lms_1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|solutionrelative:lms_1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|D:\\lms_1\\lms_1\\forgotpassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|solutionrelative:lms_1\\forgotpassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|d:\\lms_1\\lms_1\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|D:\\lms_1\\lms_1\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|solutionrelative:lms_1\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|d:\\lms_1\\lms_1\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|D:\\lms_1\\lms_1\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|solutionrelative:lms_1\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|d:\\lms_1\\lms_1\\bookcollection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|D:\\lms_1\\lms_1\\bookcollection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|solutionrelative:lms_1\\bookcollection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|d:\\lms_1\\lms_1\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|solutionrelative:lms_1\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|d:\\lms_1\\lms_1\\admin\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|D:\\lms_1\\lms_1\\admin\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|solutionrelative:lms_1\\admin\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -41,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|D:\\lms_1\\lms_1\\resetpassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|solutionrelative:lms_1\\resetpassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|D:\\lms_1\\lms_1\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|solutionrelative:lms_1\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7542B5F1-D0CF-495E-8BBC-402B01260165}|lms_1\\lms_1.csproj|D:\\lms_1\\lms_1\\verifyotp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -66,37 +70,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "contact.aspx",
-              "DocumentMoniker": "D:\\lms_1\\lms_1\\contact.aspx",
-              "RelativeDocumentMoniker": "lms_1\\contact.aspx",
-              "ToolTip": "D:\\lms_1\\lms_1\\contact.aspx",
-              "RelativeToolTip": "lms_1\\contact.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-08-26T11:03:47.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "about.aspx",
-              "DocumentMoniker": "D:\\lms_1\\lms_1\\about.aspx",
-              "RelativeDocumentMoniker": "lms_1\\about.aspx",
-              "ToolTip": "D:\\lms_1\\lms_1\\about.aspx",
-              "RelativeToolTip": "lms_1\\about.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-08-26T11:03:22.955Z",
-              "EditorCaption": ""
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "D:\\lms_1\\lms_1\\login.aspx.cs",
+              "RelativeDocumentMoniker": "lms_1\\login.aspx.cs",
+              "ToolTip": "D:\\lms_1\\lms_1\\login.aspx.cs",
+              "RelativeToolTip": "lms_1\\login.aspx.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T08:03:49.97Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "bookcollection.aspx",
               "DocumentMoniker": "D:\\lms_1\\lms_1\\bookcollection.aspx",
               "RelativeDocumentMoniker": "lms_1\\bookcollection.aspx",
@@ -104,12 +94,11 @@
               "RelativeToolTip": "lms_1\\bookcollection.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-08-26T11:03:02.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T11:03:02.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "index.aspx",
               "DocumentMoniker": "D:\\lms_1\\lms_1\\index.aspx",
               "RelativeDocumentMoniker": "lms_1\\index.aspx",
@@ -122,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "forgotpassword.aspx",
               "DocumentMoniker": "D:\\lms_1\\lms_1\\forgotpassword.aspx",
               "RelativeDocumentMoniker": "lms_1\\forgotpassword.aspx",
@@ -130,12 +119,11 @@
               "RelativeToolTip": "lms_1\\forgotpassword.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-08-18T07:23:37.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T07:23:37.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "login.aspx",
               "DocumentMoniker": "D:\\lms_1\\lms_1\\login.aspx",
               "RelativeDocumentMoniker": "lms_1\\login.aspx",
@@ -143,12 +131,11 @@
               "RelativeToolTip": "lms_1\\login.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-08-14T09:45:48.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T09:45:48.997Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "registration.aspx",
               "DocumentMoniker": "D:\\lms_1\\lms_1\\registration.aspx",
               "RelativeDocumentMoniker": "lms_1\\registration.aspx",
@@ -156,12 +143,47 @@
               "RelativeToolTip": "lms_1\\registration.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-08-14T09:44:19.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T09:44:19.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "registration.aspx.cs",
+              "DocumentMoniker": "D:\\lms_1\\lms_1\\registration.aspx.cs",
+              "RelativeDocumentMoniker": "lms_1\\registration.aspx.cs",
+              "ToolTip": "D:\\lms_1\\lms_1\\registration.aspx.cs",
+              "RelativeToolTip": "lms_1\\registration.aspx.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowBUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:05:54.277Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "about.aspx",
+              "DocumentMoniker": "D:\\lms_1\\lms_1\\about.aspx",
+              "RelativeDocumentMoniker": "lms_1\\about.aspx",
+              "ToolTip": "D:\\lms_1\\lms_1\\about.aspx",
+              "RelativeToolTip": "lms_1\\about.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-26T11:03:22.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "contact.aspx",
+              "DocumentMoniker": "D:\\lms_1\\lms_1\\contact.aspx",
+              "RelativeDocumentMoniker": "lms_1\\contact.aspx",
+              "ToolTip": "D:\\lms_1\\lms_1\\contact.aspx",
+              "RelativeToolTip": "lms_1\\contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-26T11:03:47.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "admindashboard.aspx.cs",
               "DocumentMoniker": "D:\\lms_1\\lms_1\\admin\\admindashboard.aspx.cs",
               "RelativeDocumentMoniker": "lms_1\\admin\\admindashboard.aspx.cs",
@@ -169,12 +191,11 @@
               "RelativeToolTip": "lms_1\\admin\\admindashboard.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T09:56:08.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T09:56:08.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "verifyotp.aspx",
               "DocumentMoniker": "D:\\lms_1\\lms_1\\verifyotp.aspx",
               "RelativeDocumentMoniker": "lms_1\\verifyotp.aspx",
@@ -186,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "resetpassword.aspx",
               "DocumentMoniker": "D:\\lms_1\\lms_1\\resetpassword.aspx",
               "RelativeDocumentMoniker": "lms_1\\resetpassword.aspx",
@@ -198,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "resetpassword.aspx.cs",
               "DocumentMoniker": "D:\\lms_1\\lms_1\\resetpassword.aspx.cs",
               "RelativeDocumentMoniker": "lms_1\\resetpassword.aspx.cs",
@@ -210,19 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "registration.aspx.cs",
-              "DocumentMoniker": "D:\\lms_1\\lms_1\\registration.aspx.cs",
-              "RelativeDocumentMoniker": "lms_1\\registration.aspx.cs",
-              "ToolTip": "D:\\lms_1\\lms_1\\registration.aspx.cs",
-              "RelativeToolTip": "lms_1\\registration.aspx.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowDoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T10:05:54.277Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "verifyotp.aspx.cs",
               "DocumentMoniker": "D:\\lms_1\\lms_1\\verifyotp.aspx.cs",
               "RelativeDocumentMoniker": "lms_1\\verifyotp.aspx.cs",
@@ -234,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "forgotpassword.aspx.cs",
               "DocumentMoniker": "D:\\lms_1\\lms_1\\forgotpassword.aspx.cs",
               "RelativeDocumentMoniker": "lms_1\\forgotpassword.aspx.cs",

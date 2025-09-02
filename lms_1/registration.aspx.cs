@@ -19,6 +19,8 @@ namespace lms_1
             string password = txtPassword.Text.Trim();
             string email = txtEmail.Text.Trim();
             string level = ddlLevel.SelectedValue;
+           
+
 
             errorAlert.Visible = false;
 

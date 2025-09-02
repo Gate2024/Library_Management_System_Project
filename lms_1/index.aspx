@@ -148,7 +148,7 @@
         <nav class="navbar navbar-expand-lg navbar-custom fixed-top">
             <div class="container-fluid">
                 <a class="navbar-brand d-flex align-items-center" href="#">
-                    <img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" alt="Library Logo" width="40"
+                    <img src="college_logo.png" alt="Library Logo" width="40"
                         class="me-2" />
                     <strong>LIBRARY</strong>
                 </a>
@@ -202,21 +202,21 @@
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="img_4.jpg" class="d-block w-100" alt="Slide1">
+                    <img src="img_1.jpg" class="d-block w-100 container-fluid" alt="Slide1">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Welcome to ICEEM Library</h5>
                         <p>Explore a vast collection of books and resources</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="img_5.jpg" class="d-block w-100" alt="slide2">
+                    <img src="img_2.jpg" class="d-block w-100" alt="slide2">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Learn & Grow</h5>
                         <p>Boost your knowledge with premium material</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="img_6.jpg" class="d-block w-100"
+                    <img src="img_3.jpg" class="d-block w-100"
                         alt="slide3">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Join Our Community</h5>
@@ -224,7 +224,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="img_1.jpg" class="d-block w-100"
+                    <img src="img_4.jpg" class="d-block w-100"
                         alt="Slide4">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Join Our Community</h5>
@@ -232,7 +232,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="img_2.jpg" class="d-block w-100"
+                    <img src="img_5.jpg" class="d-block w-100"
                         alt="Slide5">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Join Our Community</h5>
