@@ -186,6 +186,7 @@
     <Content Include="admin\due.aspx" />
     <Content Include="admin\studentmanagement.aspx" />
     <Content Include="bookcollection.aspx" />
+    <Content Include="college_logo.png" />
     <Content Include="contact.aspx" />
     <Content Include="dist\assets\img\AdminLTEFullLogo.png" />
     <Content Include="dist\assets\img\AdminLTELogo.png" />
@@ -399,6 +400,13 @@
     <Compile Include="resetpassword.aspx.designer.cs">
       <DependentUpon>resetpassword.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
     <Compile Include="SuperAdmin\admin.aspx.cs">
       <DependentUpon>admin.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -445,6 +453,7 @@
     <None Include="packages.config" />
     <Content Include="Uploads\sample_books_template.xlsx" />
     <Content Include="Uploads\Export_EXCEL_Books_14062025.xls" />
+    <Content Include="Site.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
